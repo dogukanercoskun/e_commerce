@@ -1,0 +1,58 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+    font-family: "Poppins", sans-serif;
+} 
+
+.background{
+    background-color: white;
+    padding: 50 px 0;
+}
+
+.container{
+    max-width: 90%;
+    margin: 0;
+}
+
+.d-flex{
+    display: flex;
+    justify-content:space-evenly;
+
+}
+
+.c-flex{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.f-flex{
+   display: flex; 
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+li{
+    list-style: none;
+
+}
+.uppercase{
+    text-transform: uppercase;
+ 
+}
+.capitalize{
+  
+    text-transform: capitalize;
+}
+.RText{
+    text-align: right;
+
+}

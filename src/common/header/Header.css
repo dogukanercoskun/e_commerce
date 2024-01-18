@@ -1,0 +1,18 @@
+.head{
+    background-color: blue;
+    padding: 10px 0;
+    color:white;
+    
+   
+}
+
+.head i{
+    margin-left: 30px;
+}
+
+.head label{
+    margin-right: 30px;
+    margin-left: 5px;
+    font-size: 13 px;
+}
+
